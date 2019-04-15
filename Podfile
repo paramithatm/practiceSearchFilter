@@ -8,5 +8,6 @@ target 'practiceSearchFilter' do
   # Pods for practiceSearchFilter
   pod 'RxSwift', '~> 4.0'
   pod 'RxCocoa', '~> 4.0'
-  
+  pod 'Moya/RxSwift', '13.0.0'
+
 end
